@@ -1,2 +1,8 @@
-hostname1;ipaddress
-hostname2;ipaddress
+Admin CAM1;10.141.0.14
+Admin CAM2;10.141.0.15
+Admin CAM3;10.141.0.16
+Admin CAM4;10.141.0.17
+Admin CAM5;10.141.0.18
+Admin CAM6;10.141.0.19
+Admin CAM7;10.141.0.20
+Admin CAM8;10.141.0.21
